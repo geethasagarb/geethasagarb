@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geetha Sagar Bonthu</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geethasagarb" alt="geethasagarb" /></a> </p>
-
 - 🔭 I’m currently working on [AI Budget Tracker](https://github.com/geethasagarb/Budget_Tracker)
 
 - 🌱 I’m currently learning **ML Libraries, Tableau**
