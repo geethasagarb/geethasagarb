@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geetha Sagar Bonthu</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpyZG92bTlyd2hmZHZjcTljZG5iMWN3amxvdDFyczBhMzNzcW1mMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif 
+
 
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/geethasagarb/Budget_Tracker">AI Budget Tracker</a></li>
