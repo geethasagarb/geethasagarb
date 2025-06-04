@@ -60,3 +60,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geethasagarb&show_icons=true&locale=en&layout=compact" alt="geethasagarb" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output/github-snake.svg" />
+</picture>
