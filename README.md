@@ -13,11 +13,16 @@
 </ul>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"><p 
+  <a href="https://www.linkedin.com/in/geethasagar/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+</p>
 <p align="left">
-    [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/geethasagar/)
-  <a href="https://kaggle.com/https://www.kaggle.com/geethasagarbonthu" target="blank">
+  <a href="https://www.kaggle.com/geethasagarbonthu" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
+</p>
   <a href="https://instagram.com/https://www.instagram.com/geethasagar_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
