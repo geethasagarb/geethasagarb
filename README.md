@@ -9,12 +9,12 @@ marketing analytics, experimentation, and enterprise reporting.
 ---
 
 <ul>
-  <li>📊 Focused on product & marketing analytics, experimentation, and funnel analysis</li>
-  <li>🧪 Experience with A/B testing, forecasting, and behavioral analytics</li>
-  <li>🚀 Built analytics solutions across enterprise and academic environments</li>
-  <li>👨‍💻 Projects available at <a href="https://github.com/geethasagarb">github.com/geethasagarb</a></li>
-  <li>🌐 Based in Cincinnati, OH | Open to Product & Marketing Analytics roles</li>
-  <li>📫 Reach me at <strong>bgeethasagar@gmail.com</strong></li>
+  <li> Focused on product & marketing analytics, experimentation, and funnel analysis</li>
+  <li> Experience with A/B testing, forecasting, and behavioral analytics</li>
+  <li> Built analytics solutions across enterprise and academic environments</li>
+  <li> Projects available at <a href="https://github.com/geethasagarb">github.com/geethasagarb</a></li>
+  <li> Based in US | Open to Product & Marketing Analytics roles</li>
+  <li> Reach me at <strong>bgeethasagar@gmail.com</strong></li>
 </ul>
 
 ---
