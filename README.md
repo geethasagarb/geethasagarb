@@ -33,7 +33,7 @@ Interested in analytics, data engineering, and building toward AI engineering.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 Python • R • SQL • Power BI • Tableau  
 Azure • Databricks • Azure Data Factory  
 PostgreSQL • DuckDB • GA4 • PostHog  
