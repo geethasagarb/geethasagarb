@@ -15,7 +15,7 @@ Interested in analytics, Data Science, and building toward AI engineering.
 ## Education
 - 🎓 MS in Business Analytics — Lindner College of Business, University of Cincinnati
 - 🎓 Post Graduate Program in Data Science (Business Intelligence) — IIIT Bangalore (2023–2024)
-- 🤖 Worked on AI governance concepts (Grokking) during a dedicated **Governance of AI** course project
+- 🤖 Worked on AI governance concepts during a dedicated **Governance of AI** course project
 
 ---
 
