@@ -19,12 +19,6 @@ Interested in analytics, Data Science, and building toward AI engineering.
 
 ---
 
-## This Month’s Focus
-- ☁️ Practicing Databricks (50+ hours of self-learning and hands-on work)
-- 📈 Strengthening cloud ETL pipelines with Azure Data Factory + Databricks
-
----
-
 ## Research & Projects
 - 📝 Presented poster at the **Analytics Summit (Center for Business Analytics)** on  
   **Visualizing Forecasts for Warehouse Expansion**
