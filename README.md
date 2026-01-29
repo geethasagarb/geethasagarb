@@ -1,7 +1,7 @@
 ## Hello, I'm Sagar 👋
 
 I love turning data noise into insights.  
-Interested in analytics, data engineering, and building toward AI engineering.
+Interested in analytics, Data Science, and building toward AI engineering.
 
 ---
 
