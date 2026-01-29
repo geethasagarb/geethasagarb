@@ -28,10 +28,20 @@ Interested in analytics, Data Science, and building toward AI engineering.
 ---
 
 ## Tech Stack
-Python • R • SQL • Power BI • Tableau  
-Azure • Databricks • Azure Data Factory  
-PostgreSQL • DuckDB • GA4 • PostHog  
-ETL Pipelines • Data Migration • Parameterized Workflows
+![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/Query-SQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/BI-Tableau-E97627?logo=tableau&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Platform-Databricks-FF3621?logo=databricks&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/ETL-Azure%20Data%20Factory-0062AD?logo=microsoftazure&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/Database-DuckDB-FFF000?logo=duckdb&logoColor=black)
+![GA4](https://img.shields.io/badge/Analytics-GA4-E37400?logo=googleanalytics&logoColor=white)
+![PostHog](https://img.shields.io/badge/Product%20Analytics-PostHog-000000?logo=posthog&logoColor=white)
 
 ---
 
