@@ -1,64 +1,49 @@
-<h1 align="center">Hi 👋, I'm Geetha Sagar Bonthu</h1>
-<h3 align="center">Data & Product Analytics | SQL • Python • BI • Experimentation</h3>
+## Hello, I'm Sagar 👋
 
-<p align="center">
-Analytics professional with 4+ years of experience in product analytics,
-marketing analytics, experimentation, and enterprise reporting.
-</p>
+I love turning data noise into insights.  
+Interested in analytics, data engineering, and building toward AI engineering.
 
 ---
 
-<ul>
-  <li> Focused on product & marketing analytics, experimentation, and funnel analysis</li>
-  <li> Experience with A/B testing, forecasting, and behavioral analytics</li>
-  <li> Built analytics solutions across enterprise and academic environments</li>
-  <li> Projects available at <a href="https://github.com/geethasagarb">github.com/geethasagarb</a></li>
-  <li> Based in US | Open to Product & Marketing Analytics roles</li>
-  <li> Reach me at <strong>bgeethasagar@gmail.com</strong></li>
-</ul>
+## Current Role
+- 🎓 Recent MS graduate in Business Analytics
+- 📊 Former Data Analyst @ SONA Lab (Marketing Research Lab), University of Cincinnati
+- 🛠 Previously worked as a Senior Analyst with strong exposure to ETL pipelines and data workflows
 
 ---
 
-<h3 align="left">Featured Work</h3>
-<ul>
-  <li>
-    📈 <strong>Personal Analytics Portfolio</strong> –
-    Event tracking, session analysis, and engagement metrics using PostHog
-    (<a href="https://geethasagarb.in" target="_blank">View</a>)
-  </li>
-  <li>
-    🔍 <strong>Applied Analytics & Forecasting Projects</strong> –
-    Conversion modeling, time-series forecasting, and product analytics
-  </li>
-</ul>
+## Education
+- 🎓 MS in Business Analytics — Lindner College of Business, University of Cincinnati
+- 🎓 Post Graduate Program in Data Science (Business Intelligence) — IIIT Bangalore (2023–2024)
+- 🤖 Worked on AI governance concepts during a dedicated **Governance of AI** course project
 
 ---
 
-<h3 align="left">Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/geethasagar/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-
-  <a href="https://www.kaggle.com/geethasagarbonthu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/bgeethasagar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+## This Month’s Focus
+- ☁️ Practicing Databricks (50+ hours of self-learning and hands-on work)
+- 📦 Supply Chain & Warehouse Analytics using SAP operational data
+- 📈 Strengthening cloud ETL pipelines with Azure Data Factory + Databricks
 
 ---
 
-<h3 align="left">Tech Stack</h3>
-<p align="left">
-  <strong>Languages & Analytics:</strong> SQL, Python, R<br/>
-  <strong>BI & Tools:</strong> Power BI, Tableau, Excel, GA4<br/>
-  <strong>Analytics:</strong> Experiment Design, Funnel Analysis, Regression, Forecasting<br/>
-  <strong>Data Platforms:</strong> PostgreSQL, AWS Redshift<br/>
-</p>
+## Research & Projects
+- 📝 Submitted a paper at the **Analytics Summit (Center for Business Analytics)** on  
+  **Visualizing Forecasts for Warehouse Expansion**
+- Built an end-to-end workflow to filter, validate, and aggregate SAP data
+- Applied time-series analysis and linear programming (Simplex) to determine optimal pallet constraints for warehouse storage planning
 
+---
+
+## 🚀 Tech Stack
+Python • R • SQL • Power BI • Tableau  
+Azure • Databricks • Azure Data Factory  
+PostgreSQL • DuckDB • GA4 • PostHog  
+ETL Pipelines • Data Migration • Parameterized Workflows
+
+---
+
+## Interests
+Marketing Analytics • Supply Chain Analytics • Cloud Data Engineering • AI Systems
 ---
 
 <p align="center">
