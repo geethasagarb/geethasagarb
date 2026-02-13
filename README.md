@@ -1,7 +1,5 @@
 ## Hello, I'm Sagar 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=geethasagarb&color=blue)
-
 I love turning data noise into insights.  
 Interested in analytics, Data Science, and building toward AI engineering.
 
