@@ -7,6 +7,7 @@ Interested in analytics, Data Science, and building toward AI engineering.
 
 ## Current Role
 - 🎓 Recent MS graduate in Business Analytics
+- Analyst at Aerotek for Jabil
 - 📊 Former Analyst @ SONA Lab (Marketing Research Lab), University of Cincinnati
 - 🛠 Previously worked as a Senior Analyst with strong exposure to ETL pipelines and data workflows
 
