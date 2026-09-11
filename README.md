@@ -4,22 +4,6 @@ I love turning data noise into insights.
 Interested in analytics, Data Science, and building toward AI engineering.
 
 ---
-
-## Current Role
-- 🎓 Recent MS graduate in Business Analytics
-- Analyst at Aerotek for Jabil
-- 📊 Former Analyst @ SONA Lab (Marketing Research Lab), University of Cincinnati
-- 🛠 Previously worked as a Senior Analyst with strong exposure to ETL pipelines and data workflows
-
----
-
-## Education
-- 🎓 MS in Business Analytics — Lindner College of Business, University of Cincinnati
-- 🎓 Post Graduate Program in Data Science (Business Intelligence) — IIIT Bangalore (2023–2024)
-- 🤖 Worked on AI governance concepts during a dedicated **Governance of AI** course project
-
----
-
 ## Research & Projects
 - 📝 Presented poster at the **Analytics Summit (Center for Business Analytics)** on  
   **Visualizing Forecasts for Warehouse Expansion**
