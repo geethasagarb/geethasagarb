@@ -4,13 +4,6 @@ I love turning data noise into insights.
 Interested in analytics, Data Science, and building toward AI engineering.
 
 ---
-## Research & Projects
-- 📝 Presented poster at the **Analytics Summit (Center for Business Analytics)** on  
-  **Visualizing Forecasts for Warehouse Expansion**
-- Built an end-to-end workflow to filter, validate, and aggregate SAP data
-- Applied time-series analysis and linear programming (Simplex) to determine optimal pallet constraints for warehouse storage planning
-
----
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
