@@ -1,4 +1,4 @@
-## Hello, I'm Sagar 👋
+## Hello, I'm Geetha 👋
 
 I love turning data noise into insights.  
 Interested in analytics, Data Science, and building toward AI engineering.
