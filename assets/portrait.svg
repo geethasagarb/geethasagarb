@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="540" viewBox="0 0 440 540" role="img" aria-labelledby="portrait-title portrait-desc">
+<title id="portrait-title">Geetha Bonthu — animated ASCII portrait</title>
+<desc id="portrait-desc">A monochrome portrait made from individual text characters, revealed from top to bottom. Animation plays once and remains visible. A complete portrait is shown when reduced motion is enabled.</desc>
+<style>text{font-family:"Courier New",Courier,monospace}.ascii-line{white-space:pre;font-variant-ligatures:none;font-weight:700;font-family:"Courier New",Courier,monospace;opacity:1;animation:portrait-print .12s linear both;animation-delay:var(--delay)}@keyframes portrait-print{from{opacity:0}to{opacity:1}}.scan{opacity:0;animation:portrait-scan 2.9s linear .15s both}@keyframes portrait-scan{0%{opacity:.65;transform:translateY(0)}98%{opacity:.65}100%{opacity:0;transform:translateY(455px)}}@media(prefers-reduced-motion:reduce){.ascii-line,.scan{animation:none}.scan{display:none}}</style>
+<rect x=".5" y=".5" width="439" height="539" rx="7" fill="#0d1117" stroke="#21262d"/>
+<path d="M1 31H439M1 512H439" stroke="#21262d"/>
+<circle cx="13" cy="16" r="3" fill="#ef6a60"/><circle cx="25" cy="16" r="3" fill="#e5c052"/><circle cx="37" cy="16" r="3" fill="#53bd68"/>
+<text x="220" y="19" text-anchor="middle" font-size="7.5" fill="#84919f">geetha@github:~ $ ./portrait.sh</text>
+<g fill="#eef3f8" xml:space="preserve">
+<text class="ascii-line" x="65.240" y="51.000" font-size="5.4879" style="--delay:0.150s">                                             =-::-++++                                        </text>
+<text class="ascii-line" x="65.240" y="56.987" font-size="5.4879" style="--delay:0.189s">                            :::::..-+=-=+=-:-++==--=++**+=--                                  </text>
+<text class="ascii-line" x="65.240" y="62.974" font-size="5.4879" style="--delay:0.227s">                          -:::-:-=+==**+==++-:-+**+=++=+**=--=++=+=-------                    </text>
+<text class="ascii-line" x="65.240" y="68.961" font-size="5.4879" style="--delay:0.266s">                     :--=++*=-:.:-*o*++*+=-+*+++++*o+++=-=--:--==-=----====-:.                </text>
+<text class="ascii-line" x="65.240" y="74.947" font-size="5.4879" style="--delay:0.305s">                   :...:..-+*++=:.=*o*+==+=:-+++**oo****+=--::-::--++=:::-==-:::.             </text>
+<text class="ascii-line" x="65.240" y="80.934" font-size="5.4879" style="--delay:0.343s">                 --::::..::+ooo*=--+*oo**+=+=--=+*ooOo+++++=-::-:.:.-+*+=:::-=-::.:           </text>
+<text class="ascii-line" x="65.240" y="86.921" font-size="5.4879" style="--delay:0.382s">              :=+++**o*+==***++++==+*oo***+------=******=--+-=::-..:..-*o+=:..-:.:...         </text>
+<text class="ascii-line" x="65.240" y="92.908" font-size="5.4879" style="--delay:0.421s">           :..::-=+*ooo*+++*+==-:...-+*ooo*+=-.:=--*o+=+*+::::=:.:.::.-:=o*=:..-......        </text>
+<text class="ascii-line" x="65.240" y="98.895" font-size="5.4879" style="--delay:0.459s">          ...::.-+****++++=::---=-::-+oOOoOO*==- :-.-++-:++:...=:...:..-:+o+::. -..:...       </text>
+<text class="ascii-line" x="65.240" y="104.882" font-size="5.4879" style="--delay:0.498s">         :..:..-++=+*o*oo+--..-=+*oo++oO0Oo*o*-=-  . .:=- =-.:..-:  ...:-=*+=.: .:.....       </text>
+<text class="ascii-line" x="65.240" y="110.868" font-size="5.4879" style="--delay:0.537s">        ::::..--:.:-+oOO**+=--.:+**oO++O0Oo+=++:..     .-:.-:..  .:  ...:=*+=-.. .:.....      </text>
+<text class="ascii-line" x="65.240" y="116.855" font-size="5.4879" style="--delay:0.575s">       ::--===-. ..-+oOOoo*++=-:=oo**o+=OO+=: :-:       .=. -:..  .   ..:+++--..  ......      </text>
+<text class="ascii-line" x="65.240" y="122.842" font-size="5.4879" style="--delay:0.614s">      ---==+*+::::-=+oOOOo+--=:.=+Oo*++=-**=-. ....      :: .:..  ..   .++=+--..  .......     </text>
+<text class="ascii-line" x="65.240" y="128.829" font-size="5.4879" style="--delay:0.653s">    ----::::+*+=--***ooooo*=..:..-**=*+-::::-... ...     ... :..   .  .-=:=-=.:.  .......     </text>
+<text class="ascii-line" x="65.240" y="134.816" font-size="5.4879" style="--delay:0.691s">  -:-:... :=++*+++*ooOO*o*=::-...:-+=:-:..  .:.. .         . ...   .  .:.==--.:.  ........    </text>
+<text class="ascii-line" x="65.240" y="140.803" font-size="5.4879" style="--delay:0.730s">.:.:-.....:=*ooo*+++++**+===. .  ::--:.:  . ...            .   .      ..-+:-:...   . ...:.    </text>
+<text class="ascii-line" x="65.240" y="146.789" font-size="5.4879" style="--delay:0.769s">:. :..::.-=+*oo**==-.:::-:.:-:   . .:......  ...                      .-+==::..   .   .  ...  </text>
+<text class="ascii-line" x="65.240" y="152.776" font-size="5.4879" style="--delay:0.807s"> :.::.-=++**o****+--.   ..   .......::...:--::... .                  .----::.           ....  </text>
+<text class="ascii-line" x="65.240" y="158.763" font-size="5.4879" style="--delay:0.846s"> --::.:=+++++------:::   . .....:::::----:-++-=::.:..:... .   .     .:::....           .....  </text>
+<text class="ascii-line" x="65.240" y="164.750" font-size="5.4879" style="--delay:0.885s"> -=-=-:-=+****++=-:......  ..:-=++++****o*+**++-::-:-..........     .....:.           . ....  </text>
+<text class="ascii-line" x="65.240" y="170.737" font-size="5.4879" style="--delay:0.923s"> ::-++---===+*o*++--:...::-==*o0000000###00Oooo++===+====++==--::.::...::::.          ..  ... </text>
+<text class="ascii-line" x="65.240" y="176.724" font-size="5.4879" style="--delay:0.962s"> --==+==-===+=-==++=--==+*oO0##%%@@@@@@@@@@%#00Oo*oooooOOOOoo***++==--------.    .  .. .  ... </text>
+<text class="ascii-line" x="65.240" y="182.711" font-size="5.4879" style="--delay:1.001s"> -=--=--++=-:.::=**+**ooO00#%%@@@@@@@@@@@@@@@%%##00000000000OOooo***+++++==--.   :....... ... </text>
+<text class="ascii-line" x="65.240" y="188.697" font-size="5.4879" style="--delay:1.039s">  -::--++===-. -ooooO00##%%@@@@@@@@@@@@@@@@@@@@%%%#########000OOooo******+===-:....:-:::  ... </text>
+<text class="ascii-line" x="65.240" y="194.684" font-size="5.4879" style="--delay:1.078s">  --===+++++-.=O#OO0##%%%@@@@@@@@@@@@@@@@@@@@@@@%%%%##%#####00OOoooooooo**+=+=-::--::: :   .. </text>
+<text class="ascii-line" x="65.240" y="200.671" font-size="5.4879" style="--delay:1.117s">  ---===-=+:-=O##00#%%%@@@@@@@@@@@@@@@@@@@@@@@@@%#%%#%#####0000OOOoooOoo**++++-:::::-.    ... </text>
+<text class="ascii-line" x="65.240" y="206.658" font-size="5.4879" style="--delay:1.155s">   =-+--::=++*0####%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%###000OOOOOOooOooo**+++=-:..:-:    ... </text>
+<text class="ascii-line" x="65.240" y="212.645" font-size="5.4879" style="--delay:1.194s">   --:=::-==*O##%##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%#####000OOOOOOOoOoo**+++++=:.. .-.  . .. </text>
+<text class="ascii-line" x="65.240" y="218.632" font-size="5.4879" style="--delay:1.233s">   =--=--:.+oO0%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%%%%##000000OOOoOooo***+++++=-:.  :.. .... </text>
+<text class="ascii-line" x="65.240" y="224.618" font-size="5.4879" style="--delay:1.271s">   =--*+=.=+*O0%#%%%%%@@@%@@@@@@@@@@@@@@@@@@@@@%%@%@@%%###000000OOOooo***++++++=-:.  . .. ..: </text>
+<text class="ascii-line" x="65.240" y="230.605" font-size="5.4879" style="--delay:1.310s">    =+++=:-+oO0%%%%%%%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%######000OOOo***++++++++=:.. ...  ..  </text>
+<text class="ascii-line" x="65.240" y="236.592" font-size="5.4879" style="--delay:1.349s">    ++=*+=-+oO#%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%##000OOOoo**+++++++++=:. ...  .:  </text>
+<text class="ascii-line" x="65.240" y="242.579" font-size="5.4879" style="--delay:1.387s">    ==-**=:=o#%%%%%#%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%####000OOo**++++++**+=...... .:  </text>
+<text class="ascii-line" x="65.240" y="248.566" font-size="5.4879" style="--delay:1.426s">     --**--+#%%%%%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%#%%##000Oo***++++++*+-....  .:  </text>
+<text class="ascii-line" x="65.240" y="254.553" font-size="5.4879" style="--delay:1.465s">     =-==:=O%%#%%#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%%@%%##00O0Oo*++***++++++*+:...  .   </text>
+<text class="ascii-line" x="65.240" y="260.539" font-size="5.4879" style="--delay:1.503s">     =--=:*#%%#%#%%@%#%%%%%%@@@@@@@@@@@@@@@@@@@@@%%%%%%%%###0Oo*++=+==--::-==+++++**=... .:   </text>
+<text class="ascii-line" x="65.240" y="266.526" font-size="5.4879" style="--delay:1.542s">      -:=:o%#%%%#ooOoO000OOoo*+++**oOO0%%%@@%@%####00#0O**+==--::::::--:::::-++++++*+.....:   </text>
+<text class="ascii-line" x="65.240" y="272.513" font-size="5.4879" style="--delay:1.581s">      --+-o##%#%O*ooOOOOo**+=----==++oo0OO0#%##0Ooo***+=----:::--==++++++++==-=++++*+:... :++ </text>
+<text class="ascii-line" x="65.240" y="278.500" font-size="5.4879" style="--delay:1.619s">      o==+0#%%%%0##%#0O**ooOOo*+++****oooO0#@@#0Oo*++=--=--=++**oo*+=====+++====++++*- ...=+= </text>
+<text class="ascii-line" x="65.240" y="284.487" font-size="5.4879" style="--delay:1.658s">     #%O=*0%%%%%###Oo+*O#0#%#Oo*+++oOOoO##%@@@@%0O*===--=+**o*OO++++====-===+===+++**=..:=+== </text>
+<text class="ascii-line" x="65.240" y="290.474" font-size="5.4879" style="--delay:1.697s">     o#%o=0%%%%@%#00O00O*o:-O- :-Oo**O%#%@%@@@@%#O*=+=-=++*0%++= :::+=:---=+++++++++**.:+**== </text>
+<text class="ascii-line" x="65.240" y="296.461" font-size="5.4879" style="--delay:1.735s">     ###0+0%%%@@@@%0o+=+0@%=-==+o%#000%@@@@@@@@@%0*=**+=-*0%@%*++==oO*=::-=++*o*++++**:=***==+</text>
+<text class="ascii-line" x="65.240" y="302.447" font-size="5.4879" style="--delay:1.774s">     @@@@*0%%%@@@@@%#0O0%@@%##00#0O#@@%@@@@@@@@@%0o+*oo**O#####0OOOOo*+===**oooo**++**-:++*+-+</text>
+<text class="ascii-line" x="65.240" y="308.434" font-size="5.4879" style="--delay:1.813s">     @@@@O0%%%@@@@@@@%#######0OOO0%@@@@@@@@@@@@@%#O**oOOOoO000OOOoo*++++*ooooOOoo**++*= :=+++=</text>
+<text class="ascii-line" x="65.240" y="314.421" font-size="5.4879" style="--delay:1.851s">     @@@@O#%%%@@@@@@@@@@%%%#%%@@@@@@@@@@@@@@@@@@%#o**oOOO##0####000OOO000000OOOOo**+**+-:-=+++</text>
+<text class="ascii-line" x="65.240" y="320.408" font-size="5.4879" style="--delay:1.890s">     %@@@00#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%0O**oooo0%%%%%%%@@@@@@%%%##00OOo***+*++-..=+ </text>
+<text class="ascii-line" x="65.240" y="326.395" font-size="5.4879" style="--delay:1.929s">     %@@@%0#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#0o****oO#@@@@@@@@@@@@@@%%##OOo***++*++- .=+ </text>
+<text class="ascii-line" x="65.240" y="332.382" font-size="5.4879" style="--delay:1.967s">     %@@@@00%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#O**+++o0#@@@@@@@@@@@%%%%#00Oo**++**=:.-=++ </text>
+<text class="ascii-line" x="65.240" y="338.368" font-size="5.4879" style="--delay:2.006s">      @@@#00%%@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@%#O+*oo++O0%@@@@@@@@@@%%%##0Ooo*++*++-.-+*=+ </text>
+<text class="ascii-line" x="65.240" y="344.355" font-size="5.4879" style="--delay:2.045s">      #%@@00#%@@@@@@@@@@@@@@@@@@@%#@@@@@@@@@@@@@@%#O*O00O+*0#%@@@@@@@@%%%#000Oo*+++**=-==+++  </text>
+<text class="ascii-line" x="65.240" y="350.342" font-size="5.4879" style="--delay:2.083s">       %@@#00%@@@@@@@@@@@@@@@@@%0O%@@@@@@@@@@@@@%#0oooO0O*+o0#%%@@@@@%%%#00OOoo**++++=--==+   </text>
+<text class="ascii-line" x="65.240" y="356.329" font-size="5.4879" style="--delay:2.122s">       %@%0O#%%@@@@@@@@@@@@@%##OO%@@@@@@@@@@@@@%#0O*+oOOo*=*OO0#%@@@%%###00Oo***+++++====++   </text>
+<text class="ascii-line" x="65.240" y="362.316" font-size="5.4879" style="--delay:2.161s">        @%0O###%@@@@@@@@@@%%#0oO@@@@@@%#0O0#%##0Oo+::==++=-=oOOO0%%%##00OOo**++++=++=:+++**   </text>
+<text class="ascii-line" x="65.240" y="368.303" font-size="5.4879" style="--delay:2.199s">        @@@o0#%#%%@%@@@@%%##O*O%@@@@@@O+-*OOOo**+--:::.--==+oOOOOO0000OOOoo**+++=====-=++*    </text>
+<text class="ascii-line" x="65.240" y="374.289" font-size="5.4879" style="--delay:2.238s">        %@@OO0##0#%%%####0Oo*0@@@@@@@@%#O*O0Oo*+=-:....::-+**oO00OoOOOooo***+=====-==         </text>
+<text class="ascii-line" x="65.240" y="380.276" font-size="5.4879" style="--delay:2.277s">         ##ooO###00#0000Oo*o%@@@%%%#0O0o++**+-=o+=-:::....:-=+**OOOo*o**+*+=====--==-         </text>
+<text class="ascii-line" x="65.240" y="386.263" font-size="5.4879" style="--delay:2.315s">            o0000000OOOOooO##OOOooo**++==*==+. *+=+=-:.:::::::--=++**o*+**======--==-         </text>
+<text class="ascii-line" x="65.240" y="392.250" font-size="5.4879" style="--delay:2.354s">            *O###0##000O0##o++**=oOOo*oOooOOo+oOOo**+==++=---:....:-=*o**+=====+===-          </text>
+<text class="ascii-line" x="65.240" y="398.237" font-size="5.4879" style="--delay:2.393s">             O#0#000#####%0+---::+oooo0##%#%%%@#OOooo*++=---:......::+*o*++=========          </text>
+<text class="ascii-line" x="65.240" y="404.224" font-size="5.4879" style="--delay:2.431s">             o0###00##%%%%0=-==-+*oO#######000OOo*ooo*++++-..::=+==--+**++==-=====-           </text>
+<text class="ascii-line" x="65.240" y="410.211" font-size="5.4879" style="--delay:2.470s">              o0##00###%%%%o+O#%%%%%@@@@@@@@@@@@@@@@@%#0o*++***OOoo++o**++===+====            </text>
+<text class="ascii-line" x="65.240" y="416.197" font-size="5.4879" style="--delay:2.509s">               O00#0####%%#oO@@@@@@@@%%@@@@@@@@@@@@%#0oo****+*o0OoOo***++==++====-            </text>
+<text class="ascii-line" x="65.240" y="422.184" font-size="5.4879" style="--delay:2.547s">               *oO0#######%##@@@@@@@@@@@@@@@@%@@%%#0Oooo***++oOOooOo**+==++=====-             </text>
+<text class="ascii-line" x="65.240" y="428.171" font-size="5.4879" style="--delay:2.586s">                *OO0######%%%@@@@@@@%%%%####000OOOOo***+++**oooooOOo*+=+=++=====              </text>
+<text class="ascii-line" x="65.240" y="434.158" font-size="5.4879" style="--delay:2.625s">                 *oOO00###%%@@@@@@@@@%#Ooo*++++++*+==--=+**oooooOOo+===+======-               </text>
+<text class="ascii-line" x="65.240" y="440.145" font-size="5.4879" style="--delay:2.663s">                   *O00###%%@@@@@@@@@@@@#Oo*+++=+*+++**ooOOoOOoooo+++==+====--                </text>
+<text class="ascii-line" x="65.240" y="446.132" font-size="5.4879" style="--delay:2.702s">                    +O00###%%@@@@@@@@@@@@@@@%00###0O0##0000Oooooo*++=======-                  </text>
+<text class="ascii-line" x="65.240" y="452.118" font-size="5.4879" style="--delay:2.741s">                     +o00###%@@@@@@@@@@@@@@@@@@@@%%%%%###0OOoooo*++=====+=-                   </text>
+<text class="ascii-line" x="65.240" y="458.105" font-size="5.4879" style="--delay:2.779s">                       *oO0#%%@@@@@@@@@@@@@@@@@@@@@%%##%#OOOoooo*+=======                     </text>
+<text class="ascii-line" x="65.240" y="464.092" font-size="5.4879" style="--delay:2.818s">                        +*OO00#%@@@@@@@@@@@@@@@@@@%%###0OOOoo**+=======                       </text>
+<text class="ascii-line" x="65.240" y="470.079" font-size="5.4879" style="--delay:2.857s">                          ***oOO%%@@@@@@@@@%%###%%%##00Ooo***+=------                         </text>
+<text class="ascii-line" x="65.240" y="476.066" font-size="5.4879" style="--delay:2.895s">                            =+O*o0##%###%%%###00#%#00OO**+====:::::                           </text>
+<text class="ascii-line" x="65.240" y="482.053" font-size="5.4879" style="--delay:2.934s">                              o+-++oOOoO00000OoO0#0OOo++=--::::::                             </text>
+<text class="ascii-line" x="65.240" y="488.039" font-size="5.4879" style="--delay:2.973s">                                -:--=++==+*+==+****++---:::::.:                               </text>
+<text class="ascii-line" x="65.240" y="494.026" font-size="5.4879" style="--delay:3.011s">                                    ::--::-::-::---:.::.::.                                   </text>
+<text class="ascii-line" x="65.240" y="500.013" font-size="5.4879" style="--delay:3.050s">                                         -::-::-::-:::.                                       </text>
+</g>
+<rect class="scan" x="65.240" y="52" width="309.520" height=".6" fill="#7ee787"/>
+<text x="12" y="530" font-size="7.5" fill="#8996a5">ascii://geetha  ·  photo → characters</text>
+<rect x="417" y="522" width="6" height="9" fill="#39d353"/>
+</svg>

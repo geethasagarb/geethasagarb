@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="540" viewBox="0 0 440 540" role="img" aria-labelledby="info-title info-desc">
+<title id="info-title">Geetha Bonthu — Analytics Engineer</title>
+<desc id="info-desc">Four-plus years turning data into decisions. SQL, Python, dbt, Azure, Databricks and Power BI. Marketing and product analytics. Building toward AI engineering. MS Business Analytics, University of Cincinnati.</desc>
+<style>.info-text{font-family:ui-monospace,SFMono-Regular,Consolas,"Liberation Mono",monospace}.info-line{opacity:1;animation:info-print .4s ease-out both;animation-delay:var(--delay)}@keyframes info-print{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}@media(prefers-reduced-motion:reduce){.info-line{animation:none}}</style>
+<rect x=".5" y=".5" width="439" height="539" rx="7" fill="#0d1117" stroke="#21262d"/>
+<path d="M1 31H439M24 175H416M24 465H416" stroke="#21262d"/>
+<circle cx="13" cy="16" r="3" fill="#ef6a60"/><circle cx="25" cy="16" r="3" fill="#e5c052"/><circle cx="37" cy="16" r="3" fill="#53bd68"/>
+<text class="info-text" x="220" y="19" text-anchor="middle" font-size="8" fill="#84919f">geetha@github:~ $ whoami</text>
+<text class="info-text info-line" x="26" y="87" font-size="28" font-weight="700" fill="#f0f6fc" style="--delay:0.1s">Geetha Bonthu</text>
+<text class="info-text info-line" x="26" y="119" font-size="19" font-weight="500" fill="#7ee787" style="--delay:0.2s">Analytics Engineer</text>
+<text class="info-text info-line" x="26" y="150" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.3s">Data noise → clear decisions.</text>
+<text class="info-text info-line" x="26" y="208" font-size="11" font-weight="400" fill="#7ee787" style="--delay:0.4s">$ build</text>
+<text class="info-text info-line" x="26" y="233" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.5s">Models, pipelines &amp; dashboards</text>
+<text class="info-text info-line" x="26" y="276" font-size="11" font-weight="400" fill="#7ee787" style="--delay:0.55s">$ stack</text>
+<text class="info-text info-line" x="26" y="301" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.65s">SQL · Python · dbt</text>
+<text class="info-text info-line" x="26" y="325" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.65s">Azure · Databricks · Power BI</text>
+<text class="info-text info-line" x="26" y="364" font-size="11" font-weight="400" fill="#7ee787" style="--delay:0.7s">$ focus</text>
+<text class="info-text info-line" x="26" y="389" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.8s">Marketing &amp; product analytics</text>
+<text class="info-text info-line" x="26" y="413" font-size="13" font-weight="400" fill="#c9d1d9" style="--delay:0.8s">Building toward AI engineering</text>
+<text class="info-text info-line" x="26" y="491" font-size="12" font-weight="500" fill="#e6edf3" style="--delay:0.95s">4+ years in analytics</text>
+<text class="info-text info-line" x="26" y="518" font-size="11" font-weight="400" fill="#8b949e" style="--delay:1.05s">MS Business Analytics · Cincinnati</text>
+</svg>
