@@ -1,4 +1,4 @@
-## Hi, I'm Geetha 👋
+## Hi, I'm Geetha :)
 
 **Turning data noise into insights.**
 
