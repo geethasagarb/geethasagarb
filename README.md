@@ -4,6 +4,8 @@
 
 I'm an **Analytics Engineer** with 4+ years of experience across marketing, retail, and manufacturing. I build reliable data models, cloud pipelines, and dashboards that make decisions clearer—and I'm building toward **AI engineering**.
 
+![Profile views](https://komarev.com/ghpvc/?username=geethasagarb&label=Profile%20views&color=0e75b6&style=flat)
+
 ### Tools I work with
 
 **Analytics & BI**
