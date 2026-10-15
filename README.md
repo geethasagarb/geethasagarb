@@ -2,7 +2,7 @@
 
 **Turning data noise into insights.**
 
-I'm an **Analytics Engineer** with 4+ years of experience across marketing, retail, and manufacturing. I build reliable data models, cloud pipelines, and dashboards that make decisions clearer—and I'm building toward **AI engineering**.
+I'm an **Data Analyst** with 4+ years of experience across marketing, retail, and manufacturing. I build reliable data models, cloud pipelines, and dashboards that make decisions clearer.
 
 ### Tools I work with
 
