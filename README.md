@@ -2,17 +2,21 @@
 
 **Turning data noise into insights.**
 
-I'm an **Data Analyst** with 4+ years of experience across marketing, retail, and manufacturing. I build reliable data models, cloud pipelines, and dashboards that make decisions clearer.
+I'm a **Data Analyst** who also works on the engineering side. I spend my days on the questions the business is asking, and on the pipelines and data models that make sure the answers hold up at scale. That's 4+ years across marketing, retail, and manufacturing, going from raw multi-source data to dashboards people trust.
 
 ### Tools I work with
 
-**Analytics & BI**
+**Languages**
 
 ![Python](./assets/badges/python.svg)
 ![SQL](./assets/badges/sql.svg)
 ![R](./assets/badges/r.svg)
+
+**Analytics & BI**
+
 ![Power BI](./assets/badges/power-bi.svg)
 ![Tableau](./assets/badges/tableau.svg)
+![Excel](./assets/badges/excel.svg)
 
 **Data engineering & cloud**
 
@@ -20,18 +24,40 @@ I'm an **Data Analyst** with 4+ years of experience across marketing, retail, an
 ![Snowflake](./assets/badges/snowflake.svg)
 ![dbt](./assets/badges/dbt.svg)
 ![Azure / Data Factory](./assets/badges/azure.svg)
+![AWS (S3, IAM)](./assets/badges/aws.svg)
 
-**Databases & product analytics**
+**Databases**
 
 ![PostgreSQL](./assets/badges/postgresql.svg)
+![MySQL](./assets/badges/mysql.svg)
+![Oracle](./assets/badges/oracle.svg)
 ![DuckDB](./assets/badges/duckdb.svg)
+
+**Product analytics**
+
 ![GA4](./assets/badges/ga4.svg)
+![Amplitude](./assets/badges/amplitude.svg)
 ![PostHog](./assets/badges/posthog.svg)
+
+**AI tools**
+
+![Claude Code](./assets/badges/claude-code.svg)
+![ChatGPT](./assets/badges/chatgpt.svg)
+![GitHub Copilot](./assets/badges/copilot.svg)
+![NotebookLM](./assets/badges/notebooklm.svg)
+
+Plus API integrations that pull data from SaaS tools into the warehouse.
 
 ### Selected work
 
-[Marketing analytics with SQL, Python & Power BI](https://github.com/geethasagarb/Marketing_Analytics_Portfolio_Project) · [Forecasting with ARIMA & Prophet](https://github.com/geethasagarb/-Forecasting-U.S.-Construction-Spending-FRED-)
+- **[Ad Creative Pretest Lab](https://github.com/geethasagarb/ad-creative-pretest-lab)**: pretests ad creatives with AI persona simulations before any budget is spent. Modeled in Snowflake and dbt, with RAG-generated insights.
+- **[Kroger Coupon Savings Leak](https://github.com/geethasagarb/kroger-coupon-savings-leak)**: finds where Kroger app shoppers lose digital-coupon savings and what would fix it. A product analytics case study in Amplitude and Python.
+- **[query-guard](https://github.com/geethasagarb/query-guard)**: a Claude Code mod that pauses risky SQL and dbt commands and asks before they run, because one wrong `DROP` is one too many.
 
-**Certified:** Databricks Data Engineer Associate · Power BI Data Analyst (PL-300)
+### Certifications
 
-[LinkedIn](https://www.linkedin.com/in/gitageetha) · [Explore my projects](https://github.com/geethasagarb?tab=repositories)
+Databricks Data Engineer Associate · Microsoft Power BI Data Analyst (PL-300) · Google Analytics · Certified Scrum Product Owner (CSPO, Scrum Alliance)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/gitageetha) · [Portfolio](https://geethsabarb.in) · [Explore my projects](https://github.com/geethasagarb?tab=repositories)
