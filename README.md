@@ -1,8 +1,6 @@
-## Hi, I'm Geetha :)
+## Hi, I'm Geetha
 
-**Turning data noise into insights.**
-
-I'm a **Data Analyst** who also works on the engineering side. I spend my days on the questions the business is asking, and on the pipelines and data models that make sure the answers hold up at scale. That's 4+ years across marketing, retail, and manufacturing, going from raw multi-source data to dashboards people trust.
+Data Analyst with 4+ years in marketing, retail, and manufacturing analytics. I work across the full path: SQL and Python, data models in dbt and Snowflake, and dashboards in Power BI.
 
 ### Tools I work with
 
