@@ -22,7 +22,7 @@ Data Analyst with 4.5+ years in marketing, retail, and manufacturing analytics.
 ![Snowflake](./assets/badges/snowflake.svg)
 ![dbt](./assets/badges/dbt.svg)
 ![Azure / Data Factory](./assets/badges/azure.svg)
-![AWS (S3, IAM)](./assets/badges/aws.svg)
+![AWS](./assets/badges/aws.svg)
 
 **Databases**
 
