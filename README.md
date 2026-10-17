@@ -1,6 +1,6 @@
 ## Hi, I'm Geetha
 
-Data Analyst with 4+ years in marketing, retail, and manufacturing analytics. I work across the full path: SQL and Python, data models in dbt and Snowflake, and dashboards in Power BI.
+Data Analyst with 4+ years in marketing, retail, and manufacturing analytics.
 
 ### Tools I work with
 
