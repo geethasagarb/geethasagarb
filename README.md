@@ -1,6 +1,6 @@
 ## Hi, I'm Geetha
 
-Data Analyst with 4.5+ years in marketing, retail, and manufacturing analytics.
+Data Analyst with 4.5+ years of experience in marketing, retail, and manufacturing analytics.
 
 ### Tools I work with
 
