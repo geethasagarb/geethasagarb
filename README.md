@@ -49,7 +49,7 @@ Plus API integrations that pull data from SaaS tools into the warehouse.
 ### Selected work
 
 - **[Ad Creative Pretest Lab](https://github.com/geethasagarb/ad-creative-pretest-lab)**: pretests ad creatives with AI persona simulations before any budget is spent. Modeled in Snowflake and dbt, with RAG-generated insights.
-- **[Kroger Coupon Savings Leak](https://github.com/geethasagarb/kroger-coupon-savings-leak)**: finds where Kroger app shoppers lose digital-coupon savings and what would fix it. A product analytics case study in Amplitude and Python.
+- **[Kroger Coupon Savings Leak](https://github.com/geethasagarb/kroger-coupon-leak)**: finds where Kroger app shoppers lose digital-coupon savings and what would fix it. A product analytics case study in Amplitude and Python.
 - **[query-guard](https://github.com/geethasagarb/query-guard)**: a Claude Code mod that pauses risky SQL and dbt commands and asks before they run, because one wrong `DROP` is one too many.
 
 ### Certifications
