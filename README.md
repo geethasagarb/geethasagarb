@@ -7,7 +7,6 @@ geetha:
   role: Data Analyst
   experience: 5+ years
   domains: [marketing, retail, manufacturing]
-  certs: [Databricks DE Associate, PL-300, Google Analytics, CSPO]
 ```
 
 ### `$ ls ./tools`
