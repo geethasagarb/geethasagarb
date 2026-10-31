@@ -63,9 +63,12 @@ Plus API integrations that pull data from SaaS tools into the warehouse.
 
 Databricks Data Engineer Associate · Microsoft Power BI Data Analyst (PL-300) · Google Analytics · Certified Scrum Product Owner (CSPO, Scrum Alliance)
 
-### `$ ./render --3d contributions`
+### `$ ./pacman --eat contributions`
 
-<img alt="3D contribution graph" src="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output-3d/profile-green-animate.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating the contribution graph" src="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
