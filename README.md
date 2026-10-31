@@ -7,7 +7,6 @@ geetha:
   role: Data Analyst
   experience: 5+ years
   domains: [marketing, retail, manufacturing]
-  certs: [Databricks DE Associate, PL-300, Google Analytics, CSPO]
 ```
 
 ### `$ ls ./tools`
@@ -63,6 +62,10 @@ Plus API integrations that pull data from SaaS tools into the warehouse.
 ### `$ cat certifications.txt`
 
 Databricks Data Engineer Associate · Microsoft Power BI Data Analyst (PL-300) · Google Analytics · Certified Scrum Product Owner (CSPO, Scrum Alliance)
+
+### `$ ./render --3d contributions`
+
+<img alt="3D contribution graph" src="https://raw.githubusercontent.com/geethasagarb/geethasagarb/output-3d/profile-green-animate.svg">
 
 ---
 
