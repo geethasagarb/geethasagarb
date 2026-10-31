@@ -1,6 +1,6 @@
 ## Hi, I'm Geetha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&width=500&lines=Data+Analyst;SQL+%C2%B7+Python+%C2%B7+R;Snowflake+%C2%B7+dbt+%C2%B7+Databricks)](https://github.com/geethasagarb)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&width=500&lines=Data+Analyst)](https://github.com/geethasagarb)
 
 ```yaml
 geetha:
