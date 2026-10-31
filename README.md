@@ -52,6 +52,16 @@ Plus API integrations that pull data from SaaS tools into the warehouse.
 - **[Kroger Coupon Savings Leak](https://github.com/geethasagarb/kroger-coupon-savings-leak)**: finds where Kroger app shoppers lose digital-coupon savings and what would fix it. A product analytics case study in Amplitude and Python.
 - **[query-guard](https://github.com/geethasagarb/query-guard)**: a Claude Code mod that pauses risky SQL and dbt commands and asks before they run, because one wrong `DROP` is one too many.
 
+### Open source contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [dbt-labs/dbt](https://github.com/dbt-labs/dbt) | [Add `zone` attribute to pytz timezone objects (#16980)](https://github.com/dbt-labs/dbt/pull/16980) | 🟡 In review |
+| [dbt-labs/dbt](https://github.com/dbt-labs/dbt) | [Accept `zone=` keyword in `pytz.timezone()` (#16981)](https://github.com/dbt-labs/dbt/pull/16981) | 🟡 In review |
+| [dbt-labs/dbt](https://github.com/dbt-labs/dbt) | [Implement `pytz.all_timezones` and `all_timezones_set` (#16982)](https://github.com/dbt-labs/dbt/pull/16982) | 🟡 In review |
+| [snowflakedb/snowpark-python](https://github.com/snowflakedb/snowpark-python) | [Accept `bytes` in SessionBuilder config type hints (#4455)](https://github.com/snowflakedb/snowpark-python/pull/4455) | 🟡 In review |
+| [databricks/databricks-agent-skills](https://github.com/databricks/databricks-agent-skills) | [Reported ST_Distance degrees-vs-meters bug in the dbsql skill (#296)](https://github.com/databricks/databricks-agent-skills/issues/296) | 🟡 Open |
+
 ### Certifications
 
 Databricks Data Engineer Associate · Microsoft Power BI Data Analyst (PL-300) · Google Analytics · Certified Scrum Product Owner (CSPO, Scrum Alliance)
