@@ -6,7 +6,7 @@
 geetha:
   role: Data Analyst
   experience: 5+ years
-  domains: [marketing, retail, manufacturing]
+  domains: [retail & cpg, market research & manufacturing]
 ```
 
 ### `$ ls ./tools`
